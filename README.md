@@ -153,6 +153,11 @@ After he/she review the tour, the tour guide can see the review.
 - Tripadvisor
 - SEO
 
+seo1            |  seo2
+:-------------------------:|:-------------------------:
+![](seo1.png)  |  ![](seo2.png)
+
+
 <p float="left">
   <img src="seo1.png" width="240" />
   <img src="seo2.png" width="240" />
@@ -172,6 +177,10 @@ ex  Ryogoku Retro Walking Event
   <img src="community1.png" width="240" />
   <img src="community2.png" width="240" /> 
 </p>
+
+community1            |  community2
+:-------------------------:|:-------------------------:
+![](community1.png)  |  ![](community2.png)
 
 
 ## Team
