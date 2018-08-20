@@ -153,8 +153,10 @@ After he/she review the tour, the tour guide can see the review.
 - Tripadvisor
 - SEO
 
-:-------------------------:|:-------------------------:
-![](seo1.png)  |    ![](seo2.png)
+<p float="left">
+  <img src="seo1.png" width="480" />
+  <img src="seo2.png" width="240" /> 
+</p>
 
 
 ## Community
@@ -167,10 +169,11 @@ ex  Ryogoku Retro Walking Event
     原宿＆表参道　下見見学会
     ガイド交流会
    
-    
-:-------------------------:|:-------------------------:
-![](community1.png)  |   ![](community2.png)
 
+<p float="left">
+  <img src="community1.png" width="420" />
+  <img src="community2.png" width="420" /> 
+</p>
 
 ## Team
 
