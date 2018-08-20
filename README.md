@@ -72,7 +72,11 @@ It has some convenient functionalities.
 - The personal information of each participant
 - The detail of your tour
 - Edit/Delete your tour
+<<<<<<< HEAD
 - Public/Draft your tour
+=======
+- Public/Draft your tour 
+>>>>>>> 9f25a43178dda133315fbd6136c7ab961460109c
 
 ### 4. Contact tour participants
 
