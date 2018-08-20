@@ -153,9 +153,8 @@ After he/she review the tour, the tour guide can see the review.
 - Tripadvisor
 - SEO
 
-![](seo1.png)  |  ![](seo2.png)
 
-
+![alt-text-1](seo1.png "seo1") ![alt-text-2](seo2.png "seo2")
 
 ## Community
 
@@ -168,7 +167,7 @@ ex  Ryogoku Retro Walking Event
     ガイド交流会
 
 
-![](community1.png)  |  ![](community2.png)
+![alt-text-1](community1.png "community1") ![alt-text-2](community2.png "community2")
 
 
 ## Team
